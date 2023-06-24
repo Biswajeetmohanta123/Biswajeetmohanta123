@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Biswajeetmohanta123
-- 👀 I’m interested in full stack web developer
+- 👋 Hi, I’m Biswajeet Mohanta
+- 👀 I’m interested in full stack web developer and Java Backend Developer
 - 🌱 I’m currently learning Bca
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
