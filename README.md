@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1deb33b3-af3b-49bb-aca6-c8aac95e76f4)<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
+<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
 
 ## About Me 🎓
 
