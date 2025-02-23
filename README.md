@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
+![image](https://github.com/user-attachments/assets/9af467d1-836a-42ab-a0a7-888286df0196)<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
 
 ## About Me 🎓
 
@@ -41,7 +41,7 @@ Let's embark on this exciting web development journey together! 😊
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1" />
+        <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" />
       </a>
       <br>PHP
     </td>
@@ -58,7 +58,7 @@ Let's embark on this exciting web development journey together! 😊
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <a href="#M">
+      <a href="#">
         <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo-1.png" />
       </a>
       <br>MySQL
