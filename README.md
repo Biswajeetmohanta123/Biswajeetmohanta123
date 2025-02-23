@@ -79,9 +79,9 @@ Let's embark on this exciting web development journey together! 😊
     <tr>
     <td align="center" width="96">
     <a href="#">
-        <img src="https://pbs.twimg.com/profile_images/524354309668872194/4cka4Q7w.png" />
+        <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" />
       </a>
-      <br>Swagger
+      <br>Laravel
     </td>
       <td align="center" width="96">
     <a href="#">
