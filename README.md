@@ -47,6 +47,12 @@ Let's embark on this exciting web development journey together! 😊
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1" />
+      </a>
+      <br>Java(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://tvd12.com/wp-content/uploads/springboot.jpeg" />
       </a>
       <br>Spring Boot
