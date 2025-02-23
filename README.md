@@ -41,13 +41,13 @@ Let's embark on this exciting web development journey together! 😊
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="[https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fphp_3819.html&psig=AOvVaw04fVYH6IUltu55Y8lx0tOK&ust=1740412201249000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODElOqS2osDFQAAAAAdAAAAABAE)" />
+        <img src="https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="[https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1](https://files.oaiusercontent.com/file-NN1QyL8psCxo22tSSibqjQ?se=2025-02-23T15%3A59%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D799f52b2-d5c7-4eec-9b73-c10b7c1ce94f.webp&sig=nbUAt8sMqZLQXJEGtr07TVMhJPSop3v4kBxIf8/9q4c%3D)" />
+        <img src="https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1" />
       </a>
       <br>Java(Core)
     </td>
