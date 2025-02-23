@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
+![image](https://github.com/user-attachments/assets/1deb33b3-af3b-49bb-aca6-c8aac95e76f4)<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
 
 ## About Me 🎓
 
@@ -41,7 +41,7 @@ Let's embark on this exciting web development journey together! 😊
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1" />
+        <img src="[https://th.bing.com/th/id/OIP.PZl9YNsOvSdYzlZ537h2_gHaEo?pid=ImgDet&rs=1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fphp_3819.html&psig=AOvVaw04fVYH6IUltu55Y8lx0tOK&ust=1740412201249000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODElOqS2osDFQAAAAAdAAAAABAE)" />
       </a>
       <br>Java(Core)
     </td>
